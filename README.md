@@ -13,7 +13,7 @@ Similarly, we analyzed accuracy of  the support vector classifier (SVC) with the
 As an example, for the random forest classifier, we obtained important features such as DewPointC, cloudcover, uvIndex, and visibility. 
 Similarly, we used the Random forest classifier and svc with chi-square test to find the k best features. After that, we trained our model with the selected important features and analyzed the accuracy score. 
 In addition, we applied logistic regression and gradient boosting classifiers.
-Finally, the best classifier models are chosen by comparing the trained models for two (Rain and no rain) and four classifications (No rain, Drizzle, Moderate rain, Heavy rain).
+Finally, the best classifier models are chosen by comparing the trained models for two (Rain and no rain) and four classifications (No rain, Drizzle, Moderate rain, and Heavy rain).
  
  
 
