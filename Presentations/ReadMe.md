@@ -3,7 +3,7 @@ This section contains the mid-semester and end-semester presentations that were 
 
 
 
-* The mid-semester presentation includes: 
+# The mid-semester presentation includes: 
 
 
 1. Title Slide with Name of Group members and IDs 
@@ -17,7 +17,7 @@ This section contains the mid-semester and end-semester presentations that were 
 9.  References 
 
 
-* The end-semester presentation includes: 
+# The end-semester presentation includes: 
 
 
 1. Title Slide with Name of Group members and IDs 
