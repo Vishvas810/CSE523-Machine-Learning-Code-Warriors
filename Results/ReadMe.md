@@ -1,9 +1,10 @@
-This section contains the results of the project that were submitted as a part of the project submissions. 
+# This section contains
+The results of the project that were submitted as a part of the project submissions. 
 
 The following are the sections addressed in the results:
 
 
-* Results section includes all the following images : 
+# Results section includes all the following images : 
 
 1. Random Forest (Permutation Importance) 
 2. Random Forest (Chi-square)
