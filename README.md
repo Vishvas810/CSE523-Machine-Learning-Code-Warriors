@@ -2,6 +2,8 @@
 
 # 1. Introduction
 
+Predicting the condition of the atmosphere using science and technology is known as rainfall prediction. We compared all the classifiers mentioned below and  analysed the results. The graphs for the same can be found below in the results section.
+
 We extracted data of Ahmedabad city from the past 11 years (i.e, 2009-2020 ) from an API [2]. The extracted data includes hourly forecasts of 19 parameters including   precipitation(MM), temperature, dew point, wind speed, pressure, visibility, etc.
 
 We first applied the random forest classification algorithm to our dataset and analyzed the accuracy score.
