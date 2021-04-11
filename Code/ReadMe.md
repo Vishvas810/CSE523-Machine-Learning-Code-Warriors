@@ -1,13 +1,13 @@
-This folder contains:
-rainfall_prediction_code.py
-Rainfall_Prediction_Code.ipynb
+# This folder contains
+1.rainfall_prediction_code.py
+2.Rainfall_Prediction_Code.ipynb
 
 This section contains the Code of the project that was submitted as a part of the project submissions. 
 
 The following are the sections addressed in the main code:
 
 
-* Main Code section includes all the following code sections : 
+# Main Code section includes all the following code sections : 
 
 1. Random Forest (Permutation Importance) 
 2. Random Forest (Chi-square)
