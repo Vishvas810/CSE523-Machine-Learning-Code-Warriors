@@ -1,5 +1,11 @@
 # CSE523-Machine-Learning-Code-Warriors
 
+## Team Members
+- [**Vishvas Patel**](https://github.com/Vishvas810)
+- [**Deep Patel**](https://github.com/deeppatel01)
+- [**Dhruv Panchal**](https://github.com/dhruv0022)
+- [**Devarsh Suthar**](https://github.com/dev1030)
+  
 # 1. Introduction
 
 Predicting the condition of the atmosphere using science and technology is known as rainfall prediction. We compared all the classifiers mentioned below and  analysed the results. The graphs for the same can be found below in the results section.
